@@ -9,3 +9,7 @@ git commit -m "mensagem de commit"
 git push origin main
 
 ctrl + l -> limpa o terminal 
+
+*agora estamos na branch nova 
+
+git checkout -b Dev
